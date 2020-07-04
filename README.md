@@ -1,6 +1,10 @@
-# fluttertube
+# FlutterTube
 
-A new Flutter application.
+A Flutter application to connect to Youtube API in order to provide some basic functions.
+- Search for especific videos, using suggestions provided by Google
+- Save videos as favorites and add them to a separate list
+- Play Videos inside the App using the FlutterYoutube Widget
+- App developed using Bloc Pattern
 
 ## Getting Started
 
